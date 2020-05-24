@@ -1,0 +1,24 @@
+:root {
+    --primary-color: #e50914;
+}
+
+* {
+    box-sizing: border-box; /* reset - padding doesnt effect widht */
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    -webkit-font-smoothing: antialiased;/*font smoothing antialiased */
+    background: #000;
+    color: #999;
+}
+
+ul {
+    list-style: none;
+}
+
+h1, h2, h3, h4 {
+    color: white;
+}
